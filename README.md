@@ -17,3 +17,6 @@ Esse repositório é destinado ao desafio solicitado pela DbServer.
 - Depois de baixar e instalar os pré-requisitos, baixe os arquivos desse repositório para o seu computador.
 - Execute os testes utilizando o JUnit.
 - Pronto!
+
+## Observações
+- As evidências dos testes são geradas dentro do diretório do projeto, mais precisamente em "target/screenshot".
