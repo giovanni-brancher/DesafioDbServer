@@ -15,6 +15,15 @@ Esse repositório é destinado ao desafio solicitado pela DbServer.
 
 ## Como executar os testes
 - Depois de baixar e instalar os pré-requisitos, baixe os arquivos desse repositório para o seu computador.
+- Ao abrir o projeto, utilize as seguintes informações, conforme o trecho abaixo do arquivo POM.xml, ou se preferir, altere o arquivo POM.xml.
+
+````
+<modelVersion>4.0.0</modelVersion>
+<groupId>br.automationpractice</groupId>
+<artifactId>DesafioDbServer</artifactId>
+<version>0.0.1-SNAPSHOT</version>
+````
+
 - Execute os testes utilizando o JUnit.
 - Pronto!
 
