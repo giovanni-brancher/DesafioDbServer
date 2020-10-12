@@ -15,3 +15,5 @@ Esse repositório é destinado ao desafio solicitado pela DbServer.
 
 ## Como executar os testes
 - Depois de baixar e instalar os pré-requisitos, baixe os arquivos desse repositório para o seu computador.
+- Execute os testes utilizando o JUnit.
+- Pronto!
