@@ -1,4 +1,4 @@
-# DesafioDbServer
+# Desafio DbServer
 Esse repositório é destinado ao desafio solicitado pela DbServer.
 
 ## Pré-requisitos
